@@ -8,7 +8,7 @@ Example with SASS compiler and watcher for [dash by plotly](https://plot.ly/prod
 - [Dependences](#dependences)
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
-- [Tests](#tests)
+- [Development](#development)
 - [Project folder structure](#project-folder-structure)
 
 ## Overview
