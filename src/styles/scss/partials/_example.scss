@@ -1,0 +1,13 @@
+#page-content {
+    padding: $big-padding;
+
+    &.container {
+        max-width: 1200px;
+    }
+}
+
+#my-graph {
+    width: 100%;
+    margin: $default-margin auto;
+    border: 1px solid grey;
+}

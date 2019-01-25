@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# IDE settings
+.vscode
+
+#  styles compiled by SASS
+src/assets/css/**/*.*
